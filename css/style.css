@@ -1,0 +1,19 @@
+body{
+	width: 1170px;
+	margin: 30px auto;
+}
+
+.light{
+	width: 175px;
+	padding: 10px 0;
+	background: black;
+	border-radius: 45px;
+}
+
+.circle{
+	width: 80px;
+	height: 80px;
+	border-radius: 100%;
+	margin: 10px auto;
+}
+
